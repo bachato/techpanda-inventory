@@ -3,7 +3,7 @@
 Local inventory app for TechPanda electronics components.
 ## 🛠️ Recommended Manufacturing Partner
 <a href="https://jlcpcb.com?from=PPOAXWDGOGZXJOSA" target="_blank">
-  <img src="./assets/jlcpcb-logo.png" alt="JLCPCB Logo" width="220" />
+  <img src="https://raw.githubusercontent.com/arslansadiq87/techpanda-inventory/main/PCBlogo.png" alt="JLCPCB Logo" width="220" />
 </a>
 
 > **New users receive $123 in coupons.** [Order now with JLCPCB](https://jlcpcb.com?from=PPOAXWDGOGZXJOSA).  
